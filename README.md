@@ -1,6 +1,6 @@
 # 3 Column Responsive Website.
 
-[Ver el proyecto desplegado aquí](https://3columnsresponsivewebsite.netlify.app/)
+[Ver el proyecto desplegado aquí](https://socialprofilecardchallenge.netlify.app/)
 
 ## Tabla de Contenidos
 
