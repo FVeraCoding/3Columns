@@ -1,6 +1,6 @@
 # 3 Column Responsive Website.
 
-[Ver el proyecto desplegado aquí](https://socialprofilecardchallenge.netlify.app/)
+[Ver el proyecto desplegado aquí](https://3columnsresponsivewebsite.netlify.app/)
 
 ## Tabla de Contenidos
 
@@ -13,7 +13,7 @@
 
 ## Descripción
 
-Este proyecto es una página web con un diseño de tres columnas para practicar flex y grid.
+Este proyecto es una página web con un diseño de tres columnas.
 
 ## Capturas de Pantalla
 
