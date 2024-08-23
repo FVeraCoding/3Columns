@@ -1,6 +1,6 @@
 # 3 Column Responsive Website.
 
-[Ver el proyecto desplegado aquí](https://amazing-selkie-e2492d.netlify.app/)
+[Ver el proyecto desplegado aquí](https://3columnsresponsivewebsite.netlify.app/)
 
 ## Tabla de Contenidos
 
